@@ -91,12 +91,14 @@ section img {
     }
 
 }
+
 /*Estilo Celular*/
 @media (max-width:375px) {
     header img {
         margin: 32px 0 0 16px;
     }
-    h1{
+
+    h1 {
         font-size: 40px;
     }
 
@@ -104,11 +106,13 @@ section img {
         width: 340px;
         font-size: 20px;
     }
-    a{
-        font-size:20px;
-        width:251px;
+
+    a {
+        font-size: 20px;
+        width: 251px;
     }
-    section img{
+
+    section img {
         width: 340px;
         height: 230px;
     }
